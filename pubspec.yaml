@@ -5,7 +5,7 @@ repository: https://github.com/Mahad61/webviewx_plus
 version: 0.3.3
 
 environment:
-  sdk: '>=2.18.0 <3.0.0'
+  sdk: ">=3.0.1 <=4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
